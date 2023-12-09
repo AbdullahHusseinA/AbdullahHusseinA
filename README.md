@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/)
-  - [Hello World!](https://github.com/)
+  - [File Permissions in Linux](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
 
 
 <h2>📄 Certifications </h2>
