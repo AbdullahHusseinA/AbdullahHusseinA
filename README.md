@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [File Permissions in Linux](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
+  - [VTech Cybersecurity Analysis](https://github.com/AbdullahHusseinA/VTechCybersecurityAnalysis/tree/main)
+    
 
 
 <h2>📄 Certifications </h2>
