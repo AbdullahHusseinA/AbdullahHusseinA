@@ -7,7 +7,8 @@
 
 <h2>📄 Certifications </h2>
 
-- [Google Cybersecuirty Certification](link)
+- [Google Cybersecurity Certification](link)
+- [Google Data Analytics Certification](link)
 
 
 <h2> 🤳 Connect with me:</h2>
