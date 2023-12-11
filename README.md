@@ -8,7 +8,7 @@
 <h2>📄 Certifications </h2>
 
 - [Google Cybersecurity Certification](link)
-- [Google Data Analytics Certification](link)
+- [Google Data Analytics Certification](https://www.credly.com/badges/cd3695c4-e20b-4201-840c-823dca194903/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
