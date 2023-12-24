@@ -5,6 +5,7 @@
   - [File Permissions in Linux](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
   - [VTech Cybersecurity Analysis](https://github.com/AbdullahHusseinA/VTechCybersecurityAnalysis/tree/main)
   - [Wireshark: Generate, Capture, Analyze, then Decrypt HTTPS Traffic](https://github.com/AbdullahHusseinA/WireSharkHTTPSTraffic/tree/main)
+  - [Wireshark: Generate and Capture RADIUS Traffic](https://github.com/AbdullahHusseinA/WireSharkRADIUS/tree/main)
     
 
 
