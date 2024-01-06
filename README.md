@@ -11,7 +11,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [Google Cybersecurity Certification](link)
+- [Google Cybersecurity Certification](https://github.com/AbdullahHusseinA/GoogleCybersecurityCertificate/tree/main)
 - [Google Data Analytics Certification](https://www.credly.com/badges/cd3695c4-e20b-4201-840c-823dca194903/public_url)
 
 
