@@ -12,7 +12,7 @@
 <h2>📄 Certifications </h2>
 
 - [Google Cybersecurity Certification](https://github.com/AbdullahHusseinA/GoogleCybersecurityCertificate/tree/main)
-- [Google Data Analytics Certification](https://www.credly.com/badges/cd3695c4-e20b-4201-840c-823dca194903/public_url)
+- [Google Data Analytics Certification](https://github.com/AbdullahHusseinA/GoogleDataAnalyticsCertificate/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
