@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdullah! <br/><a href="https://www.linkedin.com">Cybersecurity Professional</a>
+<h1>Hi, I'm Abdullah! <br/><a href="https://www.linkedin.com"></a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
