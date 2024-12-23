@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abdullah! <br/><a href="https://www.linkedin.com"></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Homelab Setup (Oracle VirtualBox)](https://github.com/AbdullahHusseinA/ActiveDirectoryHomeLab/tree/main)
   - [Linux File Permissions](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
