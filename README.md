@@ -14,7 +14,6 @@
 
 - [Microsoft Certified: Azure Fundamentals (AZ 900) Certification](https://github.com/AbdullahHusseinA/Microsoft-Certified-Azure-Fundamentals-AZ-900-Certification)
 - [Google Cybersecurity Certification](https://github.com/AbdullahHusseinA/GoogleCybersecurityCertificate/tree/main)
-- [Google Data Analytics Certification](https://github.com/AbdullahHusseinA/GoogleDataAnalyticsCertificate/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
