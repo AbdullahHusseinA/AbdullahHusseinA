@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Homelab Setup (Oracle VirtualBox)](https://github.com/AbdullahHusseinA/ActiveDirectoryHomeLab/tree/main)
+  - [Active Directory (Oracle VirtualBox)](https://github.com/AbdullahHusseinA/ActiveDirectoryHomeLab/tree/main)
   - [Linux File Permissions](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
   - [Wireshark: Generate, Capture, Analyze, then Decrypt HTTPS Traffic](https://github.com/AbdullahHusseinA/WireSharkHTTPSTraffic/tree/main)
   - [Wireshark: Generate and Capture RADIUS Traffic](https://github.com/AbdullahHusseinA/WireSharkRADIUS/tree/main)
