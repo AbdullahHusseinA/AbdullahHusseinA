@@ -11,8 +11,8 @@
 
 <h2>📄 Certifications </h2>
 
-- [Microsoft Certified: Azure Fundamentals (AZ 900) Certification](https://github.com/AbdullahHusseinA/Microsoft-Certified-Azure-Fundamentals-AZ-900-Certification)
-- [Google Cybersecurity Certification](https://github.com/AbdullahHusseinA/GoogleCybersecurityCertificate/tree/main)
+- [Microsoft Certified: Azure Fundamentals (AZ 900) Certification](https://learn.microsoft.com/en-us/users/abdullahhusseinabdi-2855/credentials/2a4a8d4462b85e51?ref=https%3A%2F%2Fgithub.com%2FAbdullahHusseinA%2FMicrosoft-Certified-Azure-Fundamentals-AZ-900-Certification)
+- [Google Cybersecurity Certification](https://www.credly.com/badges/1586fddf-3994-42eb-b7d0-5ec980da54f4/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
