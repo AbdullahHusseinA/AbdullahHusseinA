@@ -1,13 +1,12 @@
 <h1>Hi, I'm Abdullah! <br/><a href="https://github.com/AbdullahHusseinA">IT Professional</a>
 
 
-<h2>👨‍💻 Projects:</h2>
+<h6>Detail-oriented IT professional with a solid foundation in **Linux system administration**, **network optimization**, and **technical support**. Experienced in **Bash scripting**, troubleshooting, and configuring systems to ensure seamless operations and reduce downtime.  
 
-  - [Active Directory (Oracle VirtualBox)](https://github.com/AbdullahHusseinA/ActiveDirectoryHomeLab/tree/main)
-  - [Linux File Permissions](https://github.com/AbdullahHusseinA/FilePermissionsInLinux/tree/main)
-  - [Wireshark: Generate, Capture, Analyze, then Decrypt HTTPS Traffic](https://github.com/AbdullahHusseinA/WireSharkHTTPSTraffic/tree/main)
-  - [Wireshark: Generate and Capture RADIUS Traffic](https://github.com/AbdullahHusseinA/WireSharkRADIUS/tree/main)
-    
+Passionate about leveraging technology to improve system reliability, streamline workflows, and enhance user experiences. Known for a fast-learning mindset, adaptability, and problem-solving skills in dynamic IT environments.  
+
+Always eager to grow and contribute to building secure and efficient systems!<h6>
+
 
 
 <h2>📄 Certifications </h2>
